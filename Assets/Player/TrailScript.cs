@@ -3,7 +3,7 @@ using System.Collections;
 
 public class TrailScript : MonoBehaviour {
 	
-	Vector3 vOrigin;
+/*	Vector3 vOrigin;
 	float fForce;
 	Vector3 vDirection;
 	
@@ -26,5 +26,5 @@ public class TrailScript : MonoBehaviour {
 	public void LaunchTrail(Vector3 direction, float force, Vector3 origin){
 		rigidbody.velocity = direction * force;
 		vOrigin = origin;
-	}
+	}*/
 }

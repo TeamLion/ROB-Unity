@@ -63,13 +63,13 @@ public class Bomb : MonoBehaviour {
 			transform.position = MousePos;
 			Force = 13 * mTime;
 			
-			if(fDelay >= 0.1f) {
+			/*if(fDelay >= 0.1f) {
 				TrailScript Trail;
 				Trail = (TrailScript)Instantiate(trail, rigidbody.position, rigidbody.rotation);
 				Trail.LaunchTrail(Direction, Force, BallPos);
 				fDelay = 0;
 				Destroy(Trail);
-			}
+			}*/
 		}
 				
 		//Return player to original position
