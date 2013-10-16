@@ -9,6 +9,8 @@ Project("{B6CC187E-5B99-BF48-A96E-C5166C8BCC62}") = "ROB-Unity", "Assembly-Unity
 EndProject
 Project("{B6CC187E-5B99-BF48-A96E-C5166C8BCC62}") = "ROB-Unity", "Assembly-UnityScript.unityproj", "{5467785E-E49C-A2C5-6AA5-F2FECF5F63A1}"
 EndProject
+Project("{B6CC187E-5B99-BF48-A96E-C5166C8BCC62}") = "ROB-Unity", "Assembly-UnityScript-Editor.unityproj", "{BCDDB2C6-A08D-1D13-0A73-6EBC6EA92762}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,11 +33,15 @@ Global
 		{5467785E-E49C-A2C5-6AA5-F2FECF5F63A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5467785E-E49C-A2C5-6AA5-F2FECF5F63A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5467785E-E49C-A2C5-6AA5-F2FECF5F63A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCDDB2C6-A08D-1D13-0A73-6EBC6EA92762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCDDB2C6-A08D-1D13-0A73-6EBC6EA92762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCDDB2C6-A08D-1D13-0A73-6EBC6EA92762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCDDB2C6-A08D-1D13-0A73-6EBC6EA92762}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																GlobalSection(MonoDevelopProperties) = preSolution
+																																																															GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1

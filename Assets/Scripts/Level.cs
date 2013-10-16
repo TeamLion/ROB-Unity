@@ -57,7 +57,7 @@ public class Level : MonoBehaviour {
 		}
 		
 		if(Input.GetKey(KeyCode.Escape)){
-			Application.LoadLevel("MainMenu");
+			Application.LoadLevel("Menu");
 		}
 		
 	}
