@@ -20,13 +20,21 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Menus/SubPartyScreen.unity
   - enabled: 1
-    path: Assets/Levels/Level1/Level1.unity
+    path: Assets/Levels/Zone1/Level1.unity
   - enabled: 1
-    path: Assets/Levels/Level1/Level1.unity
+    path: Assets/Levels/Zone1/Level1.unity
   - enabled: 1
-    path: Assets/Levels/Level2/Level2.unity
+    path: Assets/Levels/Zone1/Level2.unity
   - enabled: 1
-    path: Assets/Levels/Level3/Level3.unity
+    path: Assets/Levels/Zone1/Level3.unity
+  - enabled: 1
+    path: Assets/Levels/Zone1/Level4.unity
+  - enabled: 1
+    path: Assets/Levels/Zone1/Level5.unity
+  - enabled: 1
+    path: Assets/Levels/Zone1/Level6.unity
+  - enabled: 1
+    path: Assets/Levels/Zone1/Level7.unity
   - enabled: 0
     path: Assets/Menus/Menu.unity
   - enabled: 0
